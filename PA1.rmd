@@ -2,7 +2,7 @@
 title: "PA1_template"
 author: "Yvonne Low"
 date: "18 January, 2015"
-output: pdf_document
+output: html_document
 ---
 
 1. Loading and Processing the Data
